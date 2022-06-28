@@ -1,2 +1,2 @@
-#!/bin/basH
-echo "hello MyUser"
+#!/bin/bash
+echo "hello $USER"
