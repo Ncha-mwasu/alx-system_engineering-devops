@@ -1,0 +1,9 @@
+#!/bin/bash
+# This script prints Best school ten times using for loop
+a=1
+while [ $a -le 10 ];
+do
+    echo "Best School"
+    ((a++))
+done
+
