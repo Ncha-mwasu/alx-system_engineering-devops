@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/env bash
 # Printing Best School x10 using until loop
 i=1
 until [ $i -eq 11 ]

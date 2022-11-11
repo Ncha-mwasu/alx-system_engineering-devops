@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/env bash
 # Prints hours and minutes
 hour=0
 while [ $hour -le 12 ];
@@ -12,4 +12,3 @@ do
         done
         ((hour++))
 done
-
