@@ -4,4 +4,3 @@ for q in *
 do
         echo "$q" | cut -f 2- -d '-'
 done
-
